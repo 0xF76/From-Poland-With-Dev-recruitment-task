@@ -1,0 +1,54 @@
+[
+	{
+		"id": "50f9e662-fa0e-4ec7-b53b-7845e8f821c3",
+		"author": "John Stockton",
+		"summary": "What is the shape of the Earth?",
+		"answers": [
+			{
+				"id": "ce7bddfb-0544-4b14-92d8-188b03c41ee4",
+				"author": "Brian McKenzie",
+				"summary": "The Earth is flat."
+			},
+			{
+				"id": "d498c0a3-5be2-4354-a3bc-78673aca0f31",
+				"author": "Dr Strange",
+				"summary": "It is egg-shaped."
+			},
+			{
+				"id": "359704d8-d30c-43f4-a9ca-c4d4aa12461a",
+				"author": "John Doe",
+				"summary": "It's flat like pizza!"
+			}
+		]
+	},
+	{
+		"id": "00f3dd43-ae53-4430-8da1-b722e034c73d",
+		"author": "Sarah Nickle",
+		"summary": "Who let the dogs out?",
+		"answers": []
+	},
+	{
+		"id": "dbc326d2-2129-4e84-b570-4abfc9557ff2",
+		"author": "Hamlet",
+		"summary": "Be, or not to be?",
+		"answers": [
+			{
+				"id": "f2e82b39-de5a-421e-b00a-f15e62924fad",
+				"author": "William Shakespeare",
+				"summary": "That is the question"
+			}
+		]
+	},
+	{
+		"id": "10669aa6-252b-4f0f-89ec-f0159d36b1e7",
+		"author": "Haddaway",
+		"summary": "What is love?",
+		"answers": [
+			{
+				"id": "e9979efe-651a-40ca-af09-cc0186a9930f",
+				"author": "Haddaway",
+				"summary": "Baby don't hurt me"
+			}
+		]
+	}
+]
